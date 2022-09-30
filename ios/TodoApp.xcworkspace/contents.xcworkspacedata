@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Fonts">
+      <FileRef
+         location = "group:Fonts">
+      </FileRef>
+      <FileRef
+         location = "group:FontAwesome.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:Ionicons.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:MaterialCommunityIcons.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:MaterialIcons.ttf">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:TodoApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
