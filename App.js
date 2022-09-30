@@ -17,7 +17,7 @@ import AntDesign from 'react-native-vector-icons/AntDesign';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
-const COLORS = {primary: '#1f145c', white: '#fff'};
+const COLORS = {primary: '#1f145c', white: '#fff', black:'#000' };
 
 
 
